@@ -1,0 +1,8 @@
+langchain
+langchain_core
+langchain-openai
+langchain-chroma
+pandas
+ipykernel
+python-dotenv
+fire
